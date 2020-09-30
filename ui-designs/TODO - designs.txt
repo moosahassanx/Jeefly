@@ -1,5 +1,0 @@
-- main feed [DONE]
-- donations
-- settings
-- search
-- following [DONE]
